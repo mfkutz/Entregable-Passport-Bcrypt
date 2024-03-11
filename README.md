@@ -28,3 +28,5 @@ http://localhost:8080/register
 
 - Se corroborará en la base de datos que el nuevo usuario “creado
   con Github” cuente con un password vacío.✅
+
+![](./src/public/images/image-3.pngimage.png)
